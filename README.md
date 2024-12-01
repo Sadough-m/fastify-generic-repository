@@ -43,5 +43,5 @@ Make sure you have the following installed:
 
 ### api-documentation
 
-swagger documentation are available on defined host and port in /swagger for example http://localhost:3000/api/swagger
+swagger documentation are available on defined host and port in /swagger for example http://localhost:3000/swagger
 
